@@ -1,1 +1,0 @@
-savedcmd_/home/ayan/Desktop/linuxdriverdevelopment/ldd.mod := printf '%s\n'   ldd.o | awk '!x[$$0]++ { print("/home/ayan/Desktop/linuxdriverdevelopment/"$$0) }' > /home/ayan/Desktop/linuxdriverdevelopment/ldd.mod

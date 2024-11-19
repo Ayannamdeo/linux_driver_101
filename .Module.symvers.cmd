@@ -1,1 +1,0 @@
-savedcmd_/home/ayan/Desktop/linuxdriverdevelopment/Module.symvers :=  scripts/mod/modpost -M -m -a      -o /home/ayan/Desktop/linuxdriverdevelopment/Module.symvers -T /home/ayan/Desktop/linuxdriverdevelopment/modules.order -i Module.symvers -e 

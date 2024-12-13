@@ -51,7 +51,7 @@ module/driver , in doing so i learned a lot about types of drivers like - (
 char driver, block driver, network driver), user and kernel spaces or
 privileged and unprivileged modes, system calls, built-in drivers and loadable
 kernel drivers. i learned about adjacent but relevant topics like SSH into a
-remote device, virtualisation by QEMU, theory behind kernel, bootloader (grub),
+remote device,type 1&2 hypervisors, virtualisation by QEMU, theory behind kernel, bootloader (grub),
 ROM firmwares (bios, uefi), dtb (device tree blob).
 
 i also gained a deeper understanding of C lang by familiarising with concepts

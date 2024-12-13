@@ -55,8 +55,8 @@ remote device, virtualisation by QEMU, theory behind kernel, bootloader (grub),
 ROM firmwares (bios, uefi), dtb (device tree blob).
 
 i also gained a deeper understanding of C lang by familiarising with concepts
-like - data alignment, padding, packing (compiler directives), pointer decay,
-printf race conditions, stream fflush, practical usage of shift operation(game
+like - data alignment, padding, packing (compiler directives), pointer decay (array decay to pointers),
+printf race conditions, stream fflush, bitwise Operations - practical usage of shift operation(game
 controller buttons, multiplication), practical application of "and" "or"
 operation (used in file permissions), sbrk program break and heap boundary,
-pretouching, two's complement, unsigned char ( 7 bit ascii ).
+pretouching, two's complement, unsigned char ( 7 bit ascii ), \_\_cdeclaration - rtl, caller-unwind.
